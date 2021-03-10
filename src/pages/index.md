@@ -30,7 +30,7 @@ sections:
         style: button
 seo:
   title: Loren Yan
-  description: The preview of the Fresh theme
+  description: Peidong's
   extra:
     - name: 'og:type'
       value: website
