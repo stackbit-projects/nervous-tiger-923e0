@@ -29,7 +29,7 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Loren Yan
+  title: Peidong Yan
   description: Peidong's
   extra:
     - name: 'og:type'
