@@ -30,7 +30,7 @@ sections:
         style: button
 seo:
   title: Peidong Yan
-  description: Peidong's personal webpage
+  description: Personal webpage
   extra:
     - name: 'og:type'
       value: website
